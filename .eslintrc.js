@@ -42,6 +42,7 @@ module.exports = {
     'prefer-template': 0,
     'no-underscore-dangle': 0,
     'no-negated-condition': 'error',
+
     'sort-imports': [
       'error',
       {
